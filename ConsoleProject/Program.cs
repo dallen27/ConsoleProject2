@@ -8,6 +8,7 @@ namespace ConsoleProject
         {
             //add a note
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Checkout from Git!");
         }
     }
 }
